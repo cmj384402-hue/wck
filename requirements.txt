@@ -1,6 +1,23 @@
+# Core numerical and tabular analysis
 numpy
 pandas
-matplotlib
 scipy
+
+# Plotting
+matplotlib
+
+# Excel I/O and report tables
 openpyxl
+xlsxwriter
+
+# Statistics and modeling
+scikit-learn
+statsmodels
+sympy
+
+# Notebook workflow
 jupyter
+ipykernel
+
+# Image handling for figure post-processing
+pillow
